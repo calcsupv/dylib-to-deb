@@ -23,8 +23,8 @@ Filza などのファイルマネージャーで、任意の場所にスクリ�
 ターミナルでそのフォルダに移動し、以下を実行：
 
 ```bash
-chmod +x make_deb.sh
-sudo ./make_deb.sh
+chmod +x iDebCreator.sh
+sudo ./iDebCreator.sh
 ```
 作成された .deb ファイルは現在のフォルダに出力されます。
 
