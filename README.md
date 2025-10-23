@@ -27,6 +27,7 @@ chmod +x iDebCreator.sh
 sudo ./iDebCreator.sh
 ```
 作成された .deb ファイルは現在のフォルダに出力されます。
+
 ###重要
 dpkgとbashがインストールされていないと使えない
 
