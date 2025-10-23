@@ -27,6 +27,8 @@ chmod +x iDebCreator.sh
 sudo ./iDebCreator.sh
 ```
 作成された .deb ファイルは現在のフォルダに出力されます。
+###重要
+dpkgとbashがインストールされていないと使えない
 
 **動作確認済み環境**
 iPhone 8 / iOS 16.1.1
